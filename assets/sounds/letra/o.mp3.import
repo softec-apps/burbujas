@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/o.mp3-8aee7ffc44f120b220316c5a836b4f9c.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/letra/o.mp3"
+dest_files=[ "res://.import/o.mp3-8aee7ffc44f120b220316c5a836b4f9c.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
